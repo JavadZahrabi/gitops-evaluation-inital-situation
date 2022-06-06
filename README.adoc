@@ -20,3 +20,4 @@ include::./documentation/quickstart.adoc[]
 include::./documentation/setup.adoc[]
 
 test1
+test2
